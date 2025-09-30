@@ -1,0 +1,20 @@
+title: "Fatema Bhayani"
+description: "AI-driven educator & researcher — Toronto, Canada"
+url: "https://fatemabhayani.github.io"
+permalink: /:categories/:year/:month/:day/:title/
+markdown: kramdown
+theme: null
+plugins: []
+timezone: America/Toronto
+
+# Build settings
+exclude:
+  - README.md
+  - .gitattributes
+
+# SEO basics
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
