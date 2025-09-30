@@ -41,14 +41,7 @@ layout: default
 <section class="section" id="about">
   <h2>About</h2>
   <div class="grid">
-    <div class="card">
-      <h3>Short Bio</h3>
-      <p>Fatema Bhayani is an AI and education innovator focused on generative AI, adaptive curriculum design, and data‑driven learning. She leads product vision and pedagogy at SynaptIQ, building personalized learning systems, and currently directs AI‑Powered Learning &amp; Innovation at one of Canada’s leading private schools, guiding the integration of GenAI across 60+ courses worldwide. Previously, she worked as a Data Scientist at Theme Consultancy on predictive analytics and personalization, and served as a teaching assistant and undergraduate researcher at the University of Toronto. Her interests span trustworthy AI, fairness, and applied ML in education and finance. She is the recipient of the NSERC USRA research award.</p>
-    </div>
-    <div class="card">
-      <h3>Longer Bio</h3>
       <p>Fatema Bhayani designs and deploys AI‑powered systems that improve learning outcomes and educator workflows. At <strong>SynaptIQ</strong>, she is building a personalized learning platform and GenAI‑first curriculum models aligned with Canadian standards, with an emphasis on mastery learning and scalable feedback. As <strong>Director of AI‑Powered Learning &amp; Innovation</strong> at <strong>Canada’s leading private school</strong>, she has led the roll‑out of teacher–AI workflows across 60+ international courses, developing adaptive rubrics and differentiated feedback frameworks to support global adoption. Her <strong>applied data science</strong> background includes building predictive models for user behavior and personalization at <strong>Theme Consultancy</strong>, shipping dashboards and pipelines for stakeholders. She has served as a <strong>UofT Teaching Assistant</strong> (intro CS, NLP, statistics) and as an <strong>undergraduate researcher</strong> on graph algorithms and social network analysis (Twitter), supported by the <strong>NSERC USRA</strong>; earlier work explored NLP classification of educational content on Wikipedia. Her current interests include trustworthy and uncertainty‑aware AI, rubric‑grounded assessment, and human‑AI collaboration in high‑stakes contexts such as education and finance. She holds an <strong>HBSc in Data Science</strong> from the University of Toronto (Dean’s List; multiple scholarships).</p>
-    </div>
   </div>
 </section>
 
